@@ -1,2 +1,5 @@
-Classification-using-Deep-Neural-Network
-Deep Neural Networks used to identify species of flowers on the Iris dataset.
+Classification analysis on datasets:
+
+1) Iris Dataset : Neural Nets
+
+2) Scoring : using Machine Learning algrithms
